@@ -3,3 +3,5 @@ An assignment map will be available soon, anyone who wants to participate can do
 > We're actually providing a bot which allows to dump automatically without any client https://github.com/asyade/cort2bot
 
 ## MORE INFORMATIONS ARE COMMING SOON
+
+![alt text](https://github.com/asyade/cort2bot-minetexas-dump/blob/master/spawn.png?raw=true "An overview of the future server")
